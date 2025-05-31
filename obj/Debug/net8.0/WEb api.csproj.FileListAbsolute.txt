@@ -1,0 +1,67 @@
+E:\Learnings\WEb api\obj\Debug\net8.0\WEb api.csproj.AssemblyReference.cache
+E:\Learnings\WEb api\obj\Debug\net8.0\WEb api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learnings\WEb api\obj\Debug\net8.0\WEb api.AssemblyInfoInputs.cache
+E:\Learnings\WEb api\obj\Debug\net8.0\WEb api.AssemblyInfo.cs
+E:\Learnings\WEb api\obj\Debug\net8.0\WEb api.csproj.CoreCompileInputs.cache
+E:\Learnings\WEb api\obj\Debug\net8.0\WEb api.MvcApplicationPartsAssemblyInfo.cs
+E:\Learnings\WEb api\obj\Debug\net8.0\WEb api.MvcApplicationPartsAssemblyInfo.cache
+E:\Learnings\WEb api\bin\Debug\net8.0\appsettings.Development.json
+E:\Learnings\WEb api\bin\Debug\net8.0\appsettings.json
+E:\Learnings\WEb api\bin\Debug\net8.0\WEb api.exe
+E:\Learnings\WEb api\bin\Debug\net8.0\WEb api.deps.json
+E:\Learnings\WEb api\bin\Debug\net8.0\WEb api.runtimeconfig.json
+E:\Learnings\WEb api\bin\Debug\net8.0\WEb api.dll
+E:\Learnings\WEb api\bin\Debug\net8.0\WEb api.pdb
+E:\Learnings\WEb api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Learnings\WEb api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Learnings\WEb api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Learnings\WEb api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Learnings\WEb api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Learnings\WEb api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Learnings\WEb api\obj\Debug\net8.0\staticwebassets.development.json
+E:\Learnings\WEb api\obj\Debug\net8.0\staticwebassets\msbuild.WEb api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Learnings\WEb api\obj\Debug\net8.0\staticwebassets\msbuild.build.WEb api.props
+E:\Learnings\WEb api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WEb api.props
+E:\Learnings\WEb api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WEb api.props
+E:\Learnings\WEb api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Learnings\WEb api\obj\Debug\net8.0\scopedcss\bundle\WEb api.styles.css
+E:\Learnings\WEb api\obj\Debug\net8.0\WEb api.csproj.CopyComplete
+E:\Learnings\WEb api\obj\Debug\net8.0\WEb api.dll
+E:\Learnings\WEb api\obj\Debug\net8.0\refint\WEb api.dll
+E:\Learnings\WEb api\obj\Debug\net8.0\WEb api.pdb
+E:\Learnings\WEb api\obj\Debug\net8.0\WEb api.genruntimeconfig.cache
+E:\Learnings\WEb api\obj\Debug\net8.0\ref\WEb api.dll
+D:\Skills\DependencyInjection\dependencyinjection\bin\Debug\net8.0\appsettings.Development.json
+D:\Skills\DependencyInjection\dependencyinjection\bin\Debug\net8.0\appsettings.json
+D:\Skills\DependencyInjection\dependencyinjection\bin\Debug\net8.0\WEb api.exe
+D:\Skills\DependencyInjection\dependencyinjection\bin\Debug\net8.0\WEb api.deps.json
+D:\Skills\DependencyInjection\dependencyinjection\bin\Debug\net8.0\WEb api.runtimeconfig.json
+D:\Skills\DependencyInjection\dependencyinjection\bin\Debug\net8.0\WEb api.dll
+D:\Skills\DependencyInjection\dependencyinjection\bin\Debug\net8.0\WEb api.pdb
+D:\Skills\DependencyInjection\dependencyinjection\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Skills\DependencyInjection\dependencyinjection\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Skills\DependencyInjection\dependencyinjection\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Skills\DependencyInjection\dependencyinjection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Skills\DependencyInjection\dependencyinjection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\WEb api.csproj.AssemblyReference.cache
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\WEb api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\WEb api.AssemblyInfoInputs.cache
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\WEb api.AssemblyInfo.cs
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\WEb api.csproj.CoreCompileInputs.cache
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\WEb api.MvcApplicationPartsAssemblyInfo.cs
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\WEb api.MvcApplicationPartsAssemblyInfo.cache
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\WEb api.sourcelink.json
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\staticwebassets.build.json
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\staticwebassets.development.json
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\staticwebassets\msbuild.WEb api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\staticwebassets\msbuild.build.WEb api.props
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WEb api.props
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WEb api.props
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\scopedcss\bundle\WEb api.styles.css
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\WEb api.csproj.CopyComplete
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\WEb api.dll
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\refint\WEb api.dll
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\WEb api.pdb
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\WEb api.genruntimeconfig.cache
+D:\Skills\DependencyInjection\dependencyinjection\obj\Debug\net8.0\ref\WEb api.dll
